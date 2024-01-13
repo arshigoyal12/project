@@ -15,7 +15,6 @@ def get_requirements(file_path:str):
     return requirements
 
 setup(
-name = "ml project",
 version = "0.0.1",
 author = "Arshi Goyal",
 packages = find_packages(),
